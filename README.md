@@ -2,7 +2,7 @@
 
 In this project we will use logistic regression , SVM and KNN models using scikit-learn to predict whether or not a patient has heart disease
 
-We will go through 4 tasks to implement our project:
+We will go through 6 tasks to implement our project:
 
 Task 1: Importing libraries and Exploring the Dataset.
 
